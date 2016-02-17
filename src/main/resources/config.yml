@@ -1,0 +1,4 @@
+clientId: ''
+clientSecret: ''
+redirectUri: 'http://127.0.0.1:8123/up/minecraftjp/login'
+checkPlayerKnown: true

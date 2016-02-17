@@ -1,0 +1,11 @@
+name: DynmapMinecraftJP
+main: jp.minecraft.dynmap.minecraftjp.DynmapMinecraftJPPlugin
+version: ${project.version}-${buildNumber}
+author: ayunyan
+commands:
+  dynmapmcjp:
+    descrpition: Dynmap MinecraftJP Command
+permissions:
+    dynmapmcjp.reload:
+        description: Allows you to Reload Configuration
+        default: op
